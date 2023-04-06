@@ -1,59 +1,74 @@
 - name: Aksh
   img: logo.jpg
   location: Delhi, India
+  github: akshgpt7
 
 - name: Jay
   img: amanda.jpg
   location: Mumbai, India
+  github: jaygala223
 
 - name: Lakshya
   img: aaron.jpg
   location: Delhi, India
+  github: void-ness 
 
 - name: Ankur
   img: swift.jpg
   location: Aligarh, India
+  github: Ankur6702
 
 - name: Mamtha
   img: swift.jpg
   location: Hyderabad, India
+  github: suppixie
 
 - name: Abirami
   img: swift.jpg
   location: Toronto, Canada
+  github: k-abirami
 
 - name: Kristin
   img: swift.jpg
   location: New York, USA
+  github: kristinlam
 
 - name: Daniel
   img: swift.jpg
   location: New York, USA
+  github: ThGreatExplorer
 
 - name: Jessie
   img: swift.jpg
   location: New York, USA
+  github:
 
 - name: Priyanka
   img: swift.jpg
   location: New Jersey, USA
+  github: ohsweetmani
 
 - name: Tomás
   img: swift.jpg
   location: Some-place, Spain
+  github: ttn-ttn
 
 - name: Ikeh
   img: swift.jpg
   location: Some-place, Nigeria
+  github: IkehAkinyemi
 
 - name: Akansha
   img: swift.jpg
   location: some-place, India
+  github: akanshaaa19
 
 - name: Archi
   img: swift.jpg
   location: Bhopal, India
+  github: archikirar30
 
 - name: ZhiYuan
   img: swift.jpg
   location: Some-place, some-country
+  github: thatjosh
